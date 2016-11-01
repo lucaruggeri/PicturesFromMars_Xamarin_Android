@@ -63,12 +63,6 @@ namespace PicturesFromMars
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
 			
-			// aapt resource value: 0x7f020001
-			public const int mars1 = 2130837505;
-			
-			// aapt resource value: 0x7f020002
-			public const int mars_rocks = 2130837506;
-			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -81,12 +75,6 @@ namespace PicturesFromMars
 		
 		public partial class Id
 		{
-			
-			// aapt resource value: 0x7f060005
-			public const int demoImageView = 2131099653;
-			
-			// aapt resource value: 0x7f060006
-			public const int picturesSpinner = 2131099654;
 			
 			// aapt resource value: 0x7f060001
 			public const int radCuriosity = 2131099649;
