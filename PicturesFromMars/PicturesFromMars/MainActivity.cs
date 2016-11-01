@@ -19,13 +19,23 @@ namespace PicturesFromMars
             var adapter = ArrayAdapter.CreateFromResource(this, Resource.Array.cameras_array, Android.Resource.Layout.SimpleSpinnerItem);
             adapter.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
             spinner.Adapter = adapter;
+
+            Spinner picturesSpinner = FindViewById<Spinner>(Resource.Id.picturesSpinner);
+            picturesSpinner.ItemSelected += new System.EventHandler<AdapterView.ItemSelectedEventArgs>(picturesSpinner_ItemSelected);
+            var picturesSpinnerAdapter = ArrayAdapter.CreateFromResource(this, Resource.Array.cameras_array, Android.Resource.Layout.SimpleSpinnerItem);
+            picturesSpinnerAdapter.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
+            picturesSpinner.Adapter = picturesSpinnerAdapter;
         }
 
         private void spinner_ItemSelected(object sender, AdapterView.ItemSelectedEventArgs e)
         {
             Spinner spinner = (Spinner)sender;
             string toast = string.Format("The camera is {0}", spinner.GetItemAtPosition(e.Position));
-            Toast.MakeText (this, toast, ToastLength.Long).Show();
+            Toast.MakeText(this, toast, ToastLength.Long).Show();
+        }
+
+        private void picturesSpinner_ItemSelected(object sender, AdapterView.ItemSelectedEventArgs e)
+        {
         }
     }
 }
