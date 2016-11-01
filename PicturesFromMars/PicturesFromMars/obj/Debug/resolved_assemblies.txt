@@ -8,6 +8,8 @@ C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Androi
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Xml.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Xml.Linq.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\Plugin.Settings.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Threading.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Runtime.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.ComponentModel.Composition.dll
@@ -35,3 +37,4 @@ C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Androi
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\Microsoft.CSharp.dll
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\Mono.CSharp.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Resources.ResourceManager.dll

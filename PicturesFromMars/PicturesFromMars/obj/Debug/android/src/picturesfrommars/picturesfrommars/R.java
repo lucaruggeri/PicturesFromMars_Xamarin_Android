@@ -20,11 +20,12 @@ public final class R {
     }
     public static final class id {
         public static final int demoImageView=0x7f060005;
-        public static final int picturesSpinner=0x7f060006;
+        public static final int picturesSpinner=0x7f060007;
         public static final int radCuriosity=0x7f060001;
         public static final int radOpportunity=0x7f060002;
         public static final int radRovers=0x7f060000;
         public static final int radSpirit=0x7f060003;
+        public static final int seekBar1=0x7f060006;
         public static final int spinner=0x7f060004;
     }
     public static final class layout {

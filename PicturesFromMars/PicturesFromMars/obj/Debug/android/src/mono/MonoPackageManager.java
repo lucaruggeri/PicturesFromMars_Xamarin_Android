@@ -100,6 +100,8 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "PicturesFromMars.dll" comes first in this list. */
 		"PicturesFromMars.dll",
 		"Newtonsoft.Json.dll",
+		"Plugin.Settings.Abstractions.dll",
+		"Plugin.Settings.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
 		"System.Collections.dll",
@@ -122,6 +124,7 @@ class MonoPackageManager_Resources {
 		"System.Xml.ReaderWriter.dll",
 		"System.Text.Encoding.dll",
 		"System.Text.Encoding.Extensions.dll",
+		"System.Resources.ResourceManager.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

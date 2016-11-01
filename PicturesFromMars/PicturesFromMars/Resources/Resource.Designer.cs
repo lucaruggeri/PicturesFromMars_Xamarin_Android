@@ -85,8 +85,8 @@ namespace PicturesFromMars
 			// aapt resource value: 0x7f060005
 			public const int demoImageView = 2131099653;
 			
-			// aapt resource value: 0x7f060006
-			public const int picturesSpinner = 2131099654;
+			// aapt resource value: 0x7f060007
+			public const int picturesSpinner = 2131099655;
 			
 			// aapt resource value: 0x7f060001
 			public const int radCuriosity = 2131099649;
@@ -99,6 +99,9 @@ namespace PicturesFromMars
 			
 			// aapt resource value: 0x7f060003
 			public const int radSpirit = 2131099651;
+			
+			// aapt resource value: 0x7f060006
+			public const int seekBar1 = 2131099654;
 			
 			// aapt resource value: 0x7f060004
 			public const int spinner = 2131099652;

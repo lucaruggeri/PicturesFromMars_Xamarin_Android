@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>10/31/2016 5:52:08 PM</xs:documentation>
+    <xs:documentation>11/1/2016 11:02:19 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16824,6 +16824,7 @@
             <xs:enumeration value="@id/radOpportunity" />
             <xs:enumeration value="@id/radRovers" />
             <xs:enumeration value="@id/radSpirit" />
+            <xs:enumeration value="@id/seekBar1" />
             <xs:enumeration value="@id/spinner" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
