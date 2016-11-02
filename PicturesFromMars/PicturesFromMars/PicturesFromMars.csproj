@@ -69,7 +69,7 @@
     <Compile Include="Helpers\Settings.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Elements\NasaMarsRoverPhotos\NasaMarsRoverPhotos.cs" />
-    <Compile Include="Model\Data.cs" />
+    <Compile Include="Model\MarsData.cs" />
     <Compile Include="Model\NasaMarsRoverPhotosModel.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

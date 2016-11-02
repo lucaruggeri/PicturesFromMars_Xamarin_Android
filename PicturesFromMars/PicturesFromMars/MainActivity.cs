@@ -8,7 +8,7 @@ namespace PicturesFromMars
     [Activity(Label = "PicturesFromMars", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        public Data.Data data { get; set; }
+        public MarsData.MarsData marsData { get; set; }
 
         protected override async void OnCreate(Bundle bundle)
         {
@@ -37,7 +37,7 @@ namespace PicturesFromMars
             SeekBar seekBar1 = FindViewById<SeekBar>(Resource.Id.seekBar1);
             //TODO
             //seekBar1.ProgressChanged += new System.EventHandler<SeekBar.ProgressChangedEventArgs>(seekBar1_ProgressChanged);
-            seekBar1.Max = data.Curiosity_MaxSol;
+            seekBar1.Max = marsData.Curiosity_MaxSol;
         }
 
         private void spinner_ItemSelected(object sender, AdapterView.ItemSelectedEventArgs e)
@@ -63,16 +63,16 @@ namespace PicturesFromMars
             //TODO 
             //if (MP.Utilities.AppConfiguration.AppConfiguration.ReadKey() != string.Empty)
             //{
-            //    data = new Data.Data();
-            //    data.Curiosity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("curiosity", MP.Utilities.AppConfiguration.AppConfiguration.ReadKey());
-            //    data.Spirit_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("spirit", MP.Utilities.AppConfiguration.AppConfiguration.ReadKey());
-            //    data.Opportunity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("opportunity", MP.Utilities.AppConfiguration.AppConfiguration.ReadKey());
+            //    marsData = new MarsData.MarsData();
+            //    marsData.Curiosity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("curiosity", MP.Utilities.AppConfiguration.AppConfiguration.ReadKey());
+            //    marsData.Spirit_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("spirit", MP.Utilities.AppConfiguration.AppConfiguration.ReadKey());
+            //    marsData.Opportunity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("opportunity", MP.Utilities.AppConfiguration.AppConfiguration.ReadKey());
             //}
 
-            data = new Data.Data();
-            data.Curiosity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("curiosity", "0YQjBhJhYphOEBvQj0zhVazadkWRw8tqt2ezn8m4");
-            data.Spirit_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("spirit", "0YQjBhJhYphOEBvQj0zhVazadkWRw8tqt2ezn8m4");
-            data.Opportunity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("opportunity", "0YQjBhJhYphOEBvQj0zhVazadkWRw8tqt2ezn8m4");
+            marsData = new MarsData.MarsData();
+            marsData.Curiosity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("curiosity", "0YQjBhJhYphOEBvQj0zhVazadkWRw8tqt2ezn8m4");
+            marsData.Spirit_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("spirit", "0YQjBhJhYphOEBvQj0zhVazadkWRw8tqt2ezn8m4");
+            marsData.Opportunity_MaxSol = await NasaMarsRoverPhotos.NasaMarsRoverPhotos.GetRoverMaxSol("opportunity", "0YQjBhJhYphOEBvQj0zhVazadkWRw8tqt2ezn8m4");
         }
     }
 }

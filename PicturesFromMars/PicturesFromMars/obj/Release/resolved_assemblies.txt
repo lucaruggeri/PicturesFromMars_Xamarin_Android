@@ -1,0 +1,16 @@
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\PicturesFromMars.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Java.Interop.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Mono.Android.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\mscorlib.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.Core.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.Net.Http.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.Xml.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.Xml.Linq.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Newtonsoft.Json.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Plugin.Settings.Abstractions.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Plugin.Settings.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Release\android\assets\Mono.CSharp.dll

@@ -1,0 +1,1 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">PicturesFromMars</string><string name="camera_prompt">Sols</string><string-array name="cameras_array"><item>Front Hazard Avoidance Camera</item><item>Rear Hazard Avoidance Camera</item><item>Mast Camera</item><item>Chemistry and Camera Complex</item></string-array></resources>

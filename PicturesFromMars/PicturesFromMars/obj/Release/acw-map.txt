@@ -1,0 +1,4 @@
+PicturesFromMars.MainActivity, PicturesFromMars;md5def2cd91d11f68edf084e045359a2d38.MainActivity
+PicturesFromMars.MainActivity, PicturesFromMars, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5def2cd91d11f68edf084e045359a2d38.MainActivity
+PicturesFromMars.MainActivity;md5def2cd91d11f68edf084e045359a2d38.MainActivity
+picturesfrommars.MainActivity;md5def2cd91d11f68edf084e045359a2d38.MainActivity
