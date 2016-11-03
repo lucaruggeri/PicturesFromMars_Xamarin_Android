@@ -18,7 +18,6 @@ C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Androi
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\res\drawable\mars_rocks.jpg
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\R.cs.flag
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\uploadflags.txt
-C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\PicturesFromMars.csprojResolveAssemblyReference.cache
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\bin\Debug\Java.Interop.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\bin\Debug\Mono.Android.dll.mdb
@@ -45,5 +44,6 @@ C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Androi
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\PicturesFromMars.csprojResolveAssemblyReference.cache
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\PicturesFromMars.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\bin\Debug\PicturesFromMars.dll.mdb

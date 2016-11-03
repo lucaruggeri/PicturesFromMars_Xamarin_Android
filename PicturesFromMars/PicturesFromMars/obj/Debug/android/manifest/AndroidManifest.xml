@@ -4,7 +4,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="PicturesFromMars" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="PicturesFromMars" android:name="md5def2cd91d11f68edf084e045359a2d38.MainActivity">
+    <activity android:icon="@drawable/icon" android:label="PicturesFromMars" android:screenOrientation="portrait" android:name="md5def2cd91d11f68edf084e045359a2d38.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

@@ -19,14 +19,21 @@ public final class R {
         public static final int mars_rocks=0x7f020002;
     }
     public static final class id {
+        public static final int btnCalendar=0x7f060007;
+        public static final int btnNext=0x7f06000e;
+        public static final int btnNextDate=0x7f06000a;
+        public static final int btnPrev=0x7f06000c;
+        public static final int btnPrevDate=0x7f060008;
+        public static final int btnRandom=0x7f06000b;
         public static final int demoImageView=0x7f060005;
-        public static final int picturesSpinner=0x7f060007;
+        public static final int picturesSpinner=0x7f06000d;
         public static final int radCuriosity=0x7f060001;
         public static final int radOpportunity=0x7f060002;
         public static final int radRovers=0x7f060000;
         public static final int radSpirit=0x7f060003;
-        public static final int seekBar1=0x7f060006;
+        public static final int seekBar1=0x7f060009;
         public static final int spinner=0x7f060004;
+        public static final int txtSolInfo=0x7f060006;
     }
     public static final class layout {
         public static final int main=0x7f030000;

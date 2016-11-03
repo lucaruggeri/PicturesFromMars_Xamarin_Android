@@ -82,11 +82,29 @@ namespace PicturesFromMars
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f060007
+			public const int btnCalendar = 2131099655;
+			
+			// aapt resource value: 0x7f06000e
+			public const int btnNext = 2131099662;
+			
+			// aapt resource value: 0x7f06000a
+			public const int btnNextDate = 2131099658;
+			
+			// aapt resource value: 0x7f06000c
+			public const int btnPrev = 2131099660;
+			
+			// aapt resource value: 0x7f060008
+			public const int btnPrevDate = 2131099656;
+			
+			// aapt resource value: 0x7f06000b
+			public const int btnRandom = 2131099659;
+			
 			// aapt resource value: 0x7f060005
 			public const int demoImageView = 2131099653;
 			
-			// aapt resource value: 0x7f060007
-			public const int picturesSpinner = 2131099655;
+			// aapt resource value: 0x7f06000d
+			public const int picturesSpinner = 2131099661;
 			
 			// aapt resource value: 0x7f060001
 			public const int radCuriosity = 2131099649;
@@ -100,11 +118,14 @@ namespace PicturesFromMars
 			// aapt resource value: 0x7f060003
 			public const int radSpirit = 2131099651;
 			
-			// aapt resource value: 0x7f060006
-			public const int seekBar1 = 2131099654;
+			// aapt resource value: 0x7f060009
+			public const int seekBar1 = 2131099657;
 			
 			// aapt resource value: 0x7f060004
 			public const int spinner = 2131099652;
+			
+			// aapt resource value: 0x7f060006
+			public const int txtSolInfo = 2131099654;
 			
 			static Id()
 			{

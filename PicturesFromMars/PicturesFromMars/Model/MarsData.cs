@@ -8,14 +8,6 @@ namespace PicturesFromMars.MarsData
 {
     public class MarsData
     {
-
-        public MarsData()
-        {
-            LoadCameras();
-        }
-
-        private List<Camera> cameraList = new List<Camera>();
-
         private int curiosityMaxSol;
         public int Curiosity_MaxSol
         {
@@ -78,18 +70,20 @@ namespace PicturesFromMars.MarsData
 
         public List<Camera> GetCameras(string rover)
         {
-            if (rover == null)
+            if (rover != null)
             {
-                return cameraList;
+                return GetCameras().Where(x => x.Rovers.Any(y => y.Name == rover)).ToList();
             }
+            else
             {
-                return cameraList.Where(x => x.Rovers.Any(y => y.Name == rover)).ToList();
+                return GetCameras();
             }
         }
 
-        public void LoadCameras()
+        public List<Camera> GetCameras()
         {
-            Camera tempCamera;
+            List<Camera> cameraList = new List<Camera>();
+            Camera tempCamera = new Camera();
 
             tempCamera = new Camera();
             tempCamera.Name = "Front Hazard Avoidance Camera";
@@ -170,6 +164,8 @@ namespace PicturesFromMars.MarsData
             tempCamera.Rovers.Add(new Rover { Name = "Spirit" });
             tempCamera.Description = "The Miniature Thermal Emission Spectrometer (Mini-TES) is an infrared spectrometer used for detecting the composition of a material (typically rocks) from a distance.";
             cameraList.Add(tempCamera);
+
+            return cameraList;
         }
     }
 
