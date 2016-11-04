@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PicturesFromMars.MarsData
+namespace PicturesFromMars.Model
 {
     public class MarsData
     {
@@ -167,19 +167,57 @@ namespace PicturesFromMars.MarsData
 
             return cameraList;
         }
-    }
 
-    public class Camera
-    {
-        public string Name { get; set; }
-        public string ShortName { get; set; }
-        public List<Rover> Rovers { get; set; }
-        public string Description { get; set; }
-    }
+        public string GetRandomCamera(string rover)
+        {
+            try
+            {
+                List<Camera> cameras = GetCameras(rover);
 
-    public class Rover
-    {
-        public string Name { get; set; }
-    }
+                if (cameras != null)
+                {
+                    if (cameras.Count() > 0)
+                    {
+                        Random random = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
+                        int randomNum = random.Next(0, cameras.Count() + 1);
+                        Camera randomCamera = cameras[randomNum];
 
+                        if (randomCamera != null)
+                        {
+                            string toast = randomCamera.ShortName;
+                            return randomCamera.ShortName;
+                        }
+
+                        return "FHAZ";
+                    }
+                }
+                return "FHAZ";
+            }
+            catch
+            {
+                return "FHAZ";
+            }
+        }
+
+        public string GetRandomRover()
+        {
+            Random random = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
+            int randomRover = random.Next(0, 2 + 1);
+
+            if (randomRover == 0)
+            {
+                return "Curiosity";
+            }
+            if (randomRover == 1)
+            {
+                return "Spirit";
+            }
+            if (randomRover == 2)
+            {
+                return "Opportunity";
+            }
+            return "Curiosity";
+        }
+
+    }
 }

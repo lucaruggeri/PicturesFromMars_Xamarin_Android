@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>11/3/2016 5:31:29 PM</xs:documentation>
+    <xs:documentation>11/4/2016 4:07:36 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -774,6 +774,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -1408,6 +1410,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -2081,6 +2085,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -2444,6 +2450,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -2758,6 +2766,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -3382,6 +3392,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -3702,6 +3714,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4036,6 +4050,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4314,6 +4330,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4568,6 +4586,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5141,6 +5161,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5559,6 +5581,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5944,6 +5968,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -6384,6 +6410,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -6698,6 +6726,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -7012,6 +7042,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -7366,6 +7398,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -7680,6 +7714,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -8104,6 +8140,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -8474,6 +8512,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -8752,6 +8792,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -9188,6 +9230,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -9598,6 +9642,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -10126,6 +10172,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -10592,6 +10640,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -11030,6 +11080,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -11645,6 +11697,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -11881,6 +11935,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -12117,6 +12173,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -12353,6 +12411,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -12589,6 +12649,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -12825,6 +12887,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13061,6 +13125,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13297,6 +13363,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13727,6 +13795,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13990,6 +14060,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -14226,6 +14298,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -14462,6 +14536,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -14698,6 +14774,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -14974,6 +15052,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -15210,6 +15290,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -15524,6 +15606,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -15800,6 +15884,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -16127,6 +16213,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -16363,6 +16451,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -16819,10 +16909,10 @@
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkBox1" />
             <xs:enumeration value="@id/btnCalendar" />
-            <xs:enumeration value="@id/btnNext" />
-            <xs:enumeration value="@id/btnNextDate" />
-            <xs:enumeration value="@id/btnPrev" />
-            <xs:enumeration value="@id/btnPrevDate" />
+            <xs:enumeration value="@id/btnNextPicture" />
+            <xs:enumeration value="@id/btnNextSol" />
+            <xs:enumeration value="@id/btnPrevPicture" />
+            <xs:enumeration value="@id/btnPrevSol" />
             <xs:enumeration value="@id/btnRandom" />
             <xs:enumeration value="@id/demoImageView" />
             <xs:enumeration value="@id/picturesSpinner" />
@@ -16908,6 +16998,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -17255,6 +17347,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -17586,6 +17680,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -18150,6 +18246,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -18473,6 +18571,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -18869,6 +18969,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -19225,6 +19327,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -19477,6 +19581,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -20174,6 +20280,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -20532,6 +20640,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -21527,6 +21637,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -21775,6 +21887,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -22053,6 +22167,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -22329,6 +22445,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -22565,6 +22683,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -22801,6 +22921,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -23037,6 +23159,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -23273,6 +23397,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -23983,6 +24109,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -24236,6 +24364,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -24550,6 +24680,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -25257,6 +25389,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -25611,6 +25745,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -26029,6 +26165,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -26375,6 +26513,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -26611,6 +26751,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -27392,6 +27534,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -27628,6 +27772,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -27864,6 +28010,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -28100,6 +28248,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -28516,6 +28666,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -28752,6 +28904,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -29156,6 +29310,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -29392,6 +29548,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -29706,6 +29864,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -30386,6 +30546,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -30915,6 +31077,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -31287,6 +31451,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -32475,6 +32641,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -32753,6 +32921,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -33080,6 +33250,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -33396,6 +33568,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -33632,6 +33806,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -33908,6 +34084,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -34144,6 +34322,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -34529,6 +34709,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -34765,6 +34947,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -35079,6 +35263,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -35393,6 +35579,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -35707,6 +35895,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -36021,6 +36211,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -36283,6 +36475,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -36519,6 +36713,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -36755,6 +36951,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -36991,6 +37189,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -37227,6 +37427,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -37639,6 +37841,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -37875,6 +38079,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -38111,6 +38317,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -39284,6 +39492,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -40112,6 +40322,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -40519,6 +40731,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -41271,6 +41485,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -41733,6 +41949,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -41985,6 +42203,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -42221,6 +42441,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -42457,6 +42679,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -42771,6 +42995,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:color/background_dark" />
@@ -43137,6 +43363,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -43373,6 +43601,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/imagenotfound" />
+            <xs:enumeration value="@drawable/image-not-found" />
             <xs:enumeration value="@drawable/mars_rocks" />
             <xs:enumeration value="@drawable/mars1" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />

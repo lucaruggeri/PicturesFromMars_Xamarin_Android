@@ -64,10 +64,13 @@ namespace PicturesFromMars
 			public const int Icon = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int mars1 = 2130837505;
+			public const int imageNotFound = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int mars_rocks = 2130837506;
+			public const int mars1 = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int mars_rocks = 2130837507;
 			
 			static Drawable()
 			{
@@ -86,16 +89,16 @@ namespace PicturesFromMars
 			public const int btnCalendar = 2131099655;
 			
 			// aapt resource value: 0x7f06000e
-			public const int btnNext = 2131099662;
+			public const int btnNextPicture = 2131099662;
 			
 			// aapt resource value: 0x7f06000a
-			public const int btnNextDate = 2131099658;
+			public const int btnNextSol = 2131099658;
 			
 			// aapt resource value: 0x7f06000c
-			public const int btnPrev = 2131099660;
+			public const int btnPrevPicture = 2131099660;
 			
 			// aapt resource value: 0x7f060008
-			public const int btnPrevDate = 2131099656;
+			public const int btnPrevSol = 2131099656;
 			
 			// aapt resource value: 0x7f06000b
 			public const int btnRandom = 2131099659;

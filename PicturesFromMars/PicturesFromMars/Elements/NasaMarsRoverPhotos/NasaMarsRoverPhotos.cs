@@ -37,8 +37,8 @@ namespace PicturesFromMars.NasaMarsRoverPhotos
             //deserialize response
             if (testResponse != null)
             {
-                Rootobject g = new Rootobject();
-                g = JsonConvert.DeserializeObject<Rootobject>(testResponse.ToString());
+                NasaRoversAPI g = new NasaRoversAPI();
+                g = JsonConvert.DeserializeObject<NasaRoversAPI>(testResponse.ToString());
 
                 //use response
                 if (g != null)

@@ -15,15 +15,16 @@ public final class R {
     }
     public static final class drawable {
         public static final int icon=0x7f020000;
-        public static final int mars1=0x7f020001;
-        public static final int mars_rocks=0x7f020002;
+        public static final int imagenotfound=0x7f020001;
+        public static final int mars1=0x7f020002;
+        public static final int mars_rocks=0x7f020003;
     }
     public static final class id {
         public static final int btnCalendar=0x7f060007;
-        public static final int btnNext=0x7f06000e;
-        public static final int btnNextDate=0x7f06000a;
-        public static final int btnPrev=0x7f06000c;
-        public static final int btnPrevDate=0x7f060008;
+        public static final int btnNextPicture=0x7f06000e;
+        public static final int btnNextSol=0x7f06000a;
+        public static final int btnPrevPicture=0x7f06000c;
+        public static final int btnPrevSol=0x7f060008;
         public static final int btnRandom=0x7f06000b;
         public static final int demoImageView=0x7f060005;
         public static final int picturesSpinner=0x7f06000d;

@@ -45,5 +45,6 @@ C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Androi
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\PicturesFromMars.csprojResolveAssemblyReference.cache
+C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\res\drawable\imagenotfound.png
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\obj\Debug\PicturesFromMars.dll.mdb
 C:\SOFTWARE\Pictures From Mars (Xamarin Android)\PicturesFromMars_Xamarin_Android\PicturesFromMars\PicturesFromMars\bin\Debug\PicturesFromMars.dll.mdb
